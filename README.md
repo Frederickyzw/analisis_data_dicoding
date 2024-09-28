@@ -1,7 +1,7 @@
 # Analisis Data E-Commerce Public ✨
 
 ## Belajar Data Analytics dengan Python
-oleh :<br>
+Dibuat oleh :<br>
 <b>Nama : Frederick<br>
 Email : m319b4ky1553@bangkit.academy<br>
 Bangkit Academy Machine Learning Cohort 2024</b>
