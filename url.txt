@@ -1,3 +1,1 @@
-https://github.com/Frederickyzw/analisis_data_dicoding
-https://github.com/Frederickyzw/analisis_data_dicoding/blob/main/dashboard/dashboard.py
-https://github.com/Frederickyzw/analisis_data_dicoding/blob/main/dashboard/Hasil%20Akhir.png?raw=true
+https://7um9h5mp3hxjpcgookomox.streamlit.app/
