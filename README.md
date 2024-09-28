@@ -22,7 +22,7 @@ git clone https://github.com/Frederickyzw/analisis_data_dicoding
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install streamlit
-pip install -r dashboard/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run steamlit app
