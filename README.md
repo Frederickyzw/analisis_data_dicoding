@@ -1,16 +1,16 @@
-# Analisis Data E-Commerce Public ✨
+# Public E-Commerce Data Analysis  ✨
 
-## Belajar Data Analytics dengan Python
-Dibuat oleh :<br>
-<b>Nama : Frederick<br>
+## Data Analytics Using Python
+by :<br>
+<b>Name : Frederick<br>
 Email : m319b4ky1553@bangkit.academy<br>
 Bangkit Academy Machine Learning Cohort 2024</b>
 
 ## Brief Description
-Proyek ini dibuat untuk menganalisis data yang terdapat pada Dataset yang berjudul E-Commerce Public yang memiliki rentang antara tahun 2016 sampai 2018. Adapun aspek yang dianalisis adalah sebagai berikut :
-- 10 produk yang paling banyak dibeli customer dan 10 produk termahal.
-- Pengaruh lama waktu pengiriman rata-rata terhadap review score yang diberikan.
-- Total pengeluaran customer untuk setiap bulannya.
+This project is created to analyze data from the dataset titled E-Commerce Public, which covers the period from 2016 to 2018. The aspects analyzed are as follows:
+1. The 10 most purchased products by customers and the 10 most expensive products.
+2. The impact of the average delivery time on the review scores given.
+3. The total customer expenditure for each month.
 
 ## Clone Repository
 ```
